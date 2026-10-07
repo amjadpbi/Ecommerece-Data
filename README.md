@@ -1,4 +1,4 @@
-# E-Commerce Performance Analytics
+# E-Commerce — Sales, Customer & Product Analytics
 
 Power BI sales analytics built around a synthetic e-commerce dataset and a star-schema-style reporting model.
 
